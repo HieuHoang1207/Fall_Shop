@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Blue printed long sleeve t-shirt",
+      "category": "electronics",
+      "image": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/468624511_1329952188368684_7109883199550448114_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Aa4RZUvKz7oQ7kNvgGv1sdU&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=Ag5JjG1ca677OhQ_IS8BY1K&oh=00_AYBcLOa-4kImMI7QwK3DIqcO07mxbeMDrzNADFblX5XOHw&oe=674CBDF7",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Áo thun dài tay HAPPYS 3071",
+      "category": "electronics",
+      "image": "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/468428348_1329952705035299_1240098890767911772_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oNPuJazPxmUQ7kNvgFXM9Ix&_nc_zt=23&_nc_ht=scontent.fsgn2-7.fna&_nc_gid=AnnO5HLUzgaq2Lp2M-OyfIv&oh=00_AYBCaS-QNp435P8UMws49cOeCF33Wx0eXuYdo7bL0V4P5g&oe=674CB51E",
+      "price": "2",
+      "rating": 5,
+      "stock": 6
+    },
+    {
+      "id": 3,
+      "name": "BASED SMOKE T-Shirt",
+      "category": "electronics",
+      "image": "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/468547759_1329952728368630_8844499805524985024_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kcJ-z87YIRIQ7kNvgEvoBJJ&_nc_zt=23&_nc_ht=scontent.fsgn2-11.fna&_nc_gid=AoW4ULqgrzCXYUxYqqE91bD&oh=00_AYCEJ5YXa-NEB4b5IqHxuZKNcIa-ik0BQ1pFHP7EgIEQ2g&oe=674CA979",
+      "price": "0.25",
+      "rating": 2,
+      "stock": 24
+    },
+    {
+      "id": 4,
+      "name": "Unisex T-shirt, loose fit, short sleeve 3026",
+      "category": "clothing",
+      "image": "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/468664493_1329952171702019_3854662764970872335_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=SLOtqoYFzIQQ7kNvgEN3GQC&_nc_zt=23&_nc_ht=scontent.fsgn2-5.fna&_nc_gid=A5NOMU9oQLlpMKt7CFsK4D2&oh=00_AYBj05WmNsYLyjemkCMKEzrFtwWgj6LFTh7nelkq6kPcTg&oe=674C9C7D",
+      "price": "0.25",
+      "rating": 5,
+      "stock": 3
+    },
+    {
+      "id": 5,
+      "name": "High quality plain t-shirt for men and women HM1986",
+      "category": "clothing",
+      "image": "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/468673984_1329952231702013_2996062162940865970_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tKyR1wBXYSQQ7kNvgHFoNR4&_nc_zt=23&_nc_ht=scontent.fsgn2-4.fna&_nc_gid=Aprvb6UcRJZUVHwdQzIxqVS&oh=00_AYCb6ak-Od-7VaJBd3VCjSM1cmVfVb0VpFMP-SK7NNUa2w&oe=674CA170",
+      "price": "0.10",
+      "rating": 4,
+      "stock": 12
+    },
+    {
+      "id": 6,
+      "name": "Long sleeve shirt for home wear and going out, Korean ulzzang fashion",
+      "category": "clothing",
+      "image": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/468441437_1329952445035325_1625996571095585554_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=CSW5RhvGFUoQ7kNvgGHK3Iq&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=A_4yfALgkhoWt-3UdJ6VmWt&oh=00_AYBXtdujmYrdVNwKXXgMAyfnJJMqpP5eVkk9uF8KMnVZPw&oe=674CA9F2",
+      "price": "1.25",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 7,
+      "name": "MULTI-COLOR WOOL HAT MN23",
+      "category": "toys",
+      "image": "https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/468615306_1329952285035341_8817612269864630259_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=X4TOCpYSRyQQ7kNvgF8lFSr&_nc_zt=23&_nc_ht=scontent.fsgn2-9.fna&_nc_gid=AceSsvi9HkwnPYIa_HVjdNs&oh=00_AYBZTkv2Z6smFaxArm9Nrh1ksZawUVwQYy9f79fsDpuOEg&oe=674CB4C1",
+      "price": "0.05",
+      "rating": 4,
+      "stock": 15
+    },
+    {
+      "id": 8,
+      "name": "Plain bucket hat",
+      "category": "toys",
+      "image": "https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/468440890_1329952651701971_761156543925254901_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=a93SMBRVLNwQ7kNvgEZrMKf&_nc_zt=23&_nc_ht=scontent.fsgn2-6.fna&_nc_gid=AodxatGDf11_sL714ZIlwRY&oh=00_AYAoEPDVfvAEYNxstlgcpnPhEMLfkVrDX9RCqoOEub8awA&oe=674CC589",
+      "price": "0.20",
+      "rating": 4,
+      "stock": 0
+    },
+    {
+      "id": 9,
+      "name": "Thick wool hat MULTI-COLOR MN09",
+      "category": "toys",
+      "image": "https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/468579489_1329952348368668_6718189957559503589_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Vqfl2tMBLusQ7kNvgEPcmYQ&_nc_zt=23&_nc_ht=scontent.fsgn2-6.fna&_nc_gid=AMLXhiLlf3QQJj5zq4GYddR&oh=00_AYC0398CAwB65ilvhJpLYe1ByVWFphlT8A12uU_CIIcqrQ&oe=674CA63A",
+      "price": "0.15",
+      "rating": 3,
+      "stock": 12
+    }
+  ]
+}
